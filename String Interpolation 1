@@ -1,0 +1,3 @@
+var myName = 'Drew';
+var myCity = 'New York';
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
