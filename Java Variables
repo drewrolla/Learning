@@ -1,0 +1,11 @@
+//written in Java
+
+public class MyProfile {
+	public static void main(String[] args) {   
+      String name = "Andrew";
+      int age = 23;
+      double desiredSalary = 90000.00;
+      char gender = 'm';
+      boolean lookingForJob = true;
+	}
+}
